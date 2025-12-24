@@ -4,3 +4,4 @@ c = a+b
 d = b-a
 e = a-b
 print(c,d,e)
+print(c+d)
