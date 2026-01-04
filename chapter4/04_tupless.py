@@ -39,5 +39,3 @@ print(list_of_tuples)  # Output: [(1, 2), (3, 4), (5, 6)]
 #accessing elements in tuple inside a list
 print(list_of_tuples[1])  # Output: (3, 4)
 print(list_of_tuples[1][0])  # Output: 3
-
-#
