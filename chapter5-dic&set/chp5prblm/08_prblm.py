@@ -1,0 +1,15 @@
+#when 2 input name is same
+s = {}
+n1 = input("Enter first name: ")
+l1 = input("Enter first language: ")
+s.update({n1:l1})
+n2 = input("Enter second name: ")
+l2 = input("Enter second language: ")
+s.update({n2:l2})
+n3 = input("Enter third name: ")
+l3 = input("Enter third language: ")
+s.update({n3:l3})
+n4 = input("Enter fourth name: ")
+l4 = input("Enter fourth language: ")
+s.update({n4:l4})
+print(s)

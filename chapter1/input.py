@@ -1,0 +1,8 @@
+name1 = input(" Your Country name:")
+print(name1)
+name2 = int(input("Enter a number:"))
+print(name2)
+name3 = float(input("Enter a decimal number"))
+print(name3)
+name4 = str(input("I love India:")) 
+print(name4)

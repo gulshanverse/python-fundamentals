@@ -22,6 +22,8 @@ _haaj = 8
 
 hansrah = 3783
 
+iraj = 49
+print(iraj)
 
 
 
