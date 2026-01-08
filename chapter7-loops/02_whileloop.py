@@ -1,5 +1,5 @@
 i =0
 
-while(i<6):
-    print(i)
+while(i<50):
+    print("Harry")
     i += 1
