@@ -1,5 +1,5 @@
-i =0
+i =1
 
-while(i<50):
-    print("Harry")
+while(i<51):
+    print(i,"Harry")
     i += 1
